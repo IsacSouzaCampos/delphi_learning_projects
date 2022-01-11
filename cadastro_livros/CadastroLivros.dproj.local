@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/01/04 21:51:31.538,=C:\Users\cahot\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 22:05:54.318,C:\Users\cahot\OneDrive\Documentos\Isac\Delphi\cadastro_livros\unitPrincipal.pas=C:\Users\cahot\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 22:05:54.318,C:\Users\cahot\OneDrive\Documentos\Isac\Delphi\cadastro_livros\unitPrincipal.dfm=C:\Users\cahot\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/04 22:06:06.995,C:\Users\cahot\OneDrive\Documentos\Isac\Delphi\cadastro_livros\CadastroLivros.dproj=C:\Users\cahot\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,130 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Cadastro de Livros'
+  ClientHeight = 316
+  ClientWidth = 588
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 16
+    Width = 195
+    Height = 25
+    Caption = 'Cadastro de Livros'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 32
+    Top = 56
+    Width = 80
+    Height = 13
+    Caption = 'T'#237'tulo do Livro'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 32
+    Top = 112
+    Width = 32
+    Height = 13
+    Caption = 'Autor'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 32
+    Top = 168
+    Width = 41
+    Height = 13
+    Caption = 'G'#234'nero'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 33
+    Top = 224
+    Width = 40
+    Height = 13
+    Caption = 'Idioma'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 32
+    Top = 75
+    Width = 257
+    Height = 21
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 32
+    Top = 131
+    Width = 257
+    Height = 21
+    TabOrder = 1
+  end
+  object RadioButton1: TRadioButton
+    Left = 48
+    Top = 243
+    Width = 113
+    Height = 17
+    Caption = 'Portugu'#234's'
+    TabOrder = 2
+  end
+  object ComboBox1: TComboBox
+    Left = 32
+    Top = 187
+    Width = 257
+    Height = 21
+    TabOrder = 3
+    Items.Strings = (
+      'Romance'
+      'Pol'#237'tica'
+      'Hist'#243'ria')
+  end
+  object RadioButton2: TRadioButton
+    Left = 48
+    Top = 266
+    Width = 113
+    Height = 17
+    Caption = 'Ingl'#234's'
+    TabOrder = 4
+  end
+  object RadioButton3: TRadioButton
+    Left = 48
+    Top = 289
+    Width = 113
+    Height = 17
+    Caption = 'Espanhol'
+    TabOrder = 5
+  end
+end
